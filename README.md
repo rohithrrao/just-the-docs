@@ -13,6 +13,12 @@
 
 https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
 
+## 🎉 Fun Fact
+
+> **Did you know?** Just the Docs has been simplifying documentation since March 9, 2017 - that's over 7 years of helping developers create beautiful docs! What makes it truly special is its core philosophy: **no build script needed**. While the modern web development world embraces increasingly complex build processes, Just the Docs stays true to simplicity, letting you focus on what matters most - your content.
+
+---
+
 ## Installation
 
 ### Use the template
