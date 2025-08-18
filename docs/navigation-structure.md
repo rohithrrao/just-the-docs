@@ -142,7 +142,7 @@ nav_order: 3
 
 ```
 
-The Buttons page appears as a child of UI Components and appears second in the UI Components section.
+The Buttons page appears as a child of UI Components and appears third in the UI Components section.
 
 ### Ordering child pages
 {: .d-inline-block }
