@@ -137,12 +137,12 @@ On child pages, simply set the `parent:` YAML front matter to whatever the paren
 layout: default
 title: Buttons
 parent: UI Components
-nav_order: 2
+nav_order: 3
 ---
 
 ```
 
-The Buttons page appears as a child of UI Components and appears second in the UI Components section.
+The Buttons page appears as a child of UI Components and appears third in the UI Components section.
 
 ### Ordering child pages
 {: .d-inline-block }
@@ -199,7 +199,7 @@ Child pages can also have children (grandchildren). This is achieved by using a 
 layout: default
 title: Buttons
 parent: UI Components
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
