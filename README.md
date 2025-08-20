@@ -13,6 +13,9 @@
 
 https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
 
+{: .tip }
+Welcome to Open SWE!
+
 ## Installation
 
 ### Use the template
