@@ -153,6 +153,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  tip:
+    title: Tip
+    color: teal
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
