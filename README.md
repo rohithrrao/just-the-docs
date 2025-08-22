@@ -4,16 +4,40 @@
 <br><br>
 <p align="center">
     <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
+    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.<br><strong>Current version: 0.4.1</strong></p>
     <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">See it in action!</a></strong></p>
     <br><br><br>
 </p>
+
+## ✨ Features
+
+- **🔍 Built-in Search** - Powerful search functionality with customizable options and instant results
+- **📱 Responsive Design** - Mobile-first approach ensuring excellent experience across all devices
+- **🚀 GitHub Pages Compatible** - Deploy effortlessly with GitHub Pages and Actions workflow
+- **⚡ Minimal Dependencies** - Clean, lightweight theme with only essential dependencies (Jekyll, SEO tag)
+- **🎨 Highly Customizable** - Extensive customization options for colors, layouts, and components
+- **♿ Accessible** - Built with accessibility best practices and semantic HTML
+- **📊 SEO Optimized** - Integrated SEO support with structured data and meta tags
+- **🔧 No Build Script Required** - Simple setup without complex build processes
 
 <p align="center">A video walkthrough of various Just the Docs features</p>
 
 https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
 
 ## Installation
+
+### 🚀 Quick Start
+
+**Want to get started immediately?** Here's the fastest way:
+
+1. **Use the template**: Click [**use the template**](https://github.com/just-the-docs/just-the-docs-template/generate) to create your site
+2. **Enable GitHub Pages**: Go to your repo's Settings → Pages → Source: GitHub Actions
+3. **Start writing**: Edit `index.md` and add pages in the `docs/` folder
+4. **Customize**: Update `_config.yml` with your site details
+
+Your site will be live at `https://yourusername.github.io/your-repo-name` in minutes!
+
+---
 
 ### Use the template
 
@@ -79,10 +103,17 @@ Bug reports, proposals of new features, and pull requests are welcome on GitHub 
 
 ### Design and development principles of this theme:
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+1. **As few dependencies as possible**  
+   Keep the theme lightweight and maintainable by minimizing external dependencies
+
+2. **No build script needed**  
+   Simple setup and deployment without complex build processes or toolchains
+
+3. **First class mobile experience**  
+   Mobile-first responsive design ensuring excellent usability across all devices
+
+4. **Make the content shine**  
+   Clean, distraction-free design that prioritizes readability and content presentation
 
 ## Development
 
