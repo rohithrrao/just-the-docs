@@ -90,10 +90,17 @@ Bug reports, proposals of new features, and pull requests are welcome on GitHub 
 
 ### Design and development principles of this theme:
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+1. **As few dependencies as possible**  
+   Keep the theme lightweight and maintainable by minimizing external dependencies
+
+2. **No build script needed**  
+   Simple setup and deployment without complex build processes or toolchains
+
+3. **First class mobile experience**  
+   Mobile-first responsive design ensuring excellent usability across all devices
+
+4. **Make the content shine**  
+   Clean, distraction-free design that prioritizes readability and content presentation
 
 ## Development
 
@@ -119,4 +126,5 @@ The theme is available as open source under the terms of the [MIT License](http:
 [Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
 
