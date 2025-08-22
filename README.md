@@ -9,6 +9,17 @@
     <br><br><br>
 </p>
 
+## ✨ Features
+
+- **🔍 Built-in Search** - Powerful search functionality with customizable options and instant results
+- **📱 Responsive Design** - Mobile-first approach ensuring excellent experience across all devices
+- **🚀 GitHub Pages Compatible** - Deploy effortlessly with GitHub Pages and Actions workflow
+- **⚡ Minimal Dependencies** - Clean, lightweight theme with only essential dependencies (Jekyll, SEO tag)
+- **🎨 Highly Customizable** - Extensive customization options for colors, layouts, and components
+- **♿ Accessible** - Built with accessibility best practices and semantic HTML
+- **📊 SEO Optimized** - Integrated SEO support with structured data and meta tags
+- **🔧 No Build Script Required** - Simple setup without complex build processes
+
 <p align="center">A video walkthrough of various Just the Docs features</p>
 
 https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
@@ -108,3 +119,4 @@ The theme is available as open source under the terms of the [MIT License](http:
 [Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
